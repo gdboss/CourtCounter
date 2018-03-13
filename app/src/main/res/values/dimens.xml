@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="three_point_button">24dp</dimen>
+    <dimen name="two_point_button">8dp</dimen>
+    <dimen name="free_throw_button">8dp</dimen>
+    <dimen name="reset_button">32dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="divider">16dp</dimen>
+</resources>
